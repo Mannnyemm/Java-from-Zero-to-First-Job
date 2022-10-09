@@ -1,4 +1,4 @@
-package com.itbulls.gyabs;
+package com.manny.primitivetypes;
 
 public class PrimitiveTypes {
 
