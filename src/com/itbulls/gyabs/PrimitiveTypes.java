@@ -3,7 +3,7 @@ package com.itbulls.gyabs;
 public class PrimitiveTypes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		
 		// Unboxing Integer Wrapper
 		Integer one = 1;
