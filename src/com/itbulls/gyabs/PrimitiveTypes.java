@@ -11,7 +11,8 @@ public class PrimitiveTypes {
 		int aone = 1;
 		// Comparing wrapped and unwrapped
 		System.out.println(aone == one);
-		System.out.println((int)one);
+		// Comparing converted unwrapped to wrapped and  its unwrapped form
+		System.out.println((int)one == one);
 	}
 
 }
