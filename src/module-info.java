@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gyabe
+ *
+ */
+module learnJava {
+}
