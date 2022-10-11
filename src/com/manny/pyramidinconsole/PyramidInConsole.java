@@ -13,7 +13,7 @@ public class PyramidInConsole {
 		String userInput = sc.next();
 		// Converts userInput into integer
 		int height = Integer.parseInt(userInput);
-		// Prints pyramid if height is greater than 0
+		// Prints pyramid based on height if height is greater than 0
 		if (height > 0) {
 			for (int i = 1; i < height+1; i++) {
 				for(int j = 0; j < i; j++) {					
