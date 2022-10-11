@@ -28,7 +28,7 @@ public class UserActivitySelector {
 				break;
 			// If userInput is main_menu
 			case "main_menu":
-				System.out.println("Main Menu");
+				System.out.println("Main menu");
 				break;
 			// If userInput is about_app
 			case "about_app":
@@ -36,7 +36,7 @@ public class UserActivitySelector {
 				break;
 			// If userInput is none of the above
 			default:
-				System.out.println("Please, enter one of these values: login, sign_up, terminate_program"
+				System.out.println("Please, enter one of these values: login, sign_up, terminate_program,"
 						+ " main_menu, about_app");
 				break;
 		}
