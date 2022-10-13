@@ -1,4 +1,4 @@
-package System.out.newlinefordigit;
+package com.manny.newlinefordigit;
 
 import java.util.Scanner;
 
