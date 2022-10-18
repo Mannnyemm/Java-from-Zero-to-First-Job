@@ -1,5 +1,10 @@
 package stringprocessor;
 
+/**
+ * Processes strings and return information from string
+ * @author gyabe
+ *
+ */
 public class StringProcessor {
 
 	/**
