@@ -50,7 +50,7 @@ public class ArrayExtension {
 	}
 
 	/**
-	 * Generates an array of random integers with a given length = amountOfElements
+	 * Generates an array of random integers with a given length amountOfElements
 	 * @param amountOfElements Integer length of array
 	 * @return generated array
 	 */
