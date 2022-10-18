@@ -1,2 +1,5 @@
 
 *.class
+src/com/manny/.classpath
+bin/com/manny/.classpath
+bin/com/manny/.project
