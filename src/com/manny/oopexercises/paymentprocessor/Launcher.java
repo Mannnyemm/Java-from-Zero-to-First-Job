@@ -1,4 +1,4 @@
-package com.manny.paymentprocessor;
+package com.manny.oopexercises.paymentprocessor;
 /**
  * Program that creates accounts and allows transactions between them
  * @author gyabe

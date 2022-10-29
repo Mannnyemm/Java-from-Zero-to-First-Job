@@ -1,4 +1,4 @@
-package com.manny.booksmanagement;
+package com.manny.oopexercises.booksmanagement;
 
 public enum CoverType {
 	PAPERBACK, HARDCOVER;

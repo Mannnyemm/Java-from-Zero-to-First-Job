@@ -1,4 +1,4 @@
-package com.manny.presentsmanagement;
+package com.manny.oopexercises.presentsmanagement;
 
 public abstract class Cookie extends Sweet {
 	// Weight of dough in a Cookie

@@ -1,4 +1,4 @@
-package com.manny.paymentprocessor;
+package com.manny.oopexercises.paymentprocessor;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.manny.presentsmanagement;
+package com.manny.oopexercises.presentsmanagement;
 
 public abstract class Sweet {
 	// Name of a sweet

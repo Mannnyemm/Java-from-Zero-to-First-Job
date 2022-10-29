@@ -1,4 +1,4 @@
-package com.manny.booksmanagement;
+package com.manny.oopexercises.booksmanagement;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
