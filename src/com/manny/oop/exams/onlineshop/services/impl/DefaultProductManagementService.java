@@ -48,9 +48,19 @@ public class DefaultProductManagementService implements ProductManagementService
 		return products;
 	}
 
+	/**
+	 * Returns Object of a product whose id is given to be added to cart or null if id is not valid
+	 * @param productIdToAddToCart Integer - id of product being searched for
+	 * @return Product - Object of product to add to cart
+	 */
 	@Override
 	public Product getProductById(int productIdToAddToCart) {
 		// <write your code here>
+		for (Product product : products) {
+			if (product.getId() == productIdToAddToCart) {
+				return product;
+			}
+		}
 		return null;
 	}
 
