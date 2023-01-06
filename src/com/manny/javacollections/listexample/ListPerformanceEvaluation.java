@@ -1,4 +1,4 @@
-package com.manny.javacollections;
+package com.manny.javacollections.listexample;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

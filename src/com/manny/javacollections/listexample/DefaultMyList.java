@@ -1,4 +1,4 @@
-package com.manny.javacollections;
+package com.manny.javacollections.listexample;
 
 public class DefaultMyList implements MyList {
 	// Pointer to Head of node
